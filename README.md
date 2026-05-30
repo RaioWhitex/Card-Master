@@ -1,6 +1,6 @@
 # 👤 Profile Card UI
 
-Um projeto simples e responsivo de **Cartão de Perfil**, desenvolvido para praticar conceitos de **HTML5** e **CSS3**, com foco em design moderno e organização visual.
+Um projeto simples e responsivo de **Cartão de Crédito/Débito**, desenvolvido para praticar conceitos de **HTML5** e **CSS3**, com foco em design moderno e organização visual.
 
 ---
 
