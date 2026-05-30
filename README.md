@@ -27,7 +27,6 @@ Interface contendo:
 
 - Layout moderno e minimalista
 - Ícones de redes sociais
-- Botões personalizados
 - Bordas arredondadas
 - Efeitos de sombra
 - Estrutura responsiva
