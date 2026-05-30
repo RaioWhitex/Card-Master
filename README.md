@@ -9,9 +9,9 @@ Um projeto simples e responsivo de **Cartão de Crédito/Débito**, desenvolvido
 Interface contendo:
 
 - Foto de perfil
-- Nome e profissão
+- Nome
 - Links para redes sociais
-- Botões de interação
+- Efeito de virar
 - Estatísticas do perfil
 
 ---
